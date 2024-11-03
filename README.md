@@ -28,5 +28,18 @@ The dataset contains various attributes of used and refurbished phones and table
 - <b>Google Collab</b>
 
 <h2>Environments Used </h2>
-
 - <b>Windows 11</b> 
+
+<h2>Visuals </h2>
+<p align="center">
+Fitting a linear model and combatting multicollinearity: <br/>
+<img src="https://imgur.com/tng3JE9" height="80%" width="80%" alt="Actual vs Residual Values"/>
+<br />
+<br />
+OLS Regression Results: <br/>
+<img src="https://imgur.com/a/5etAZ2x" height="80%" width="80%" alt="Final Model Sneak Peak"/>
+<br />
+<br />
+
+
+
