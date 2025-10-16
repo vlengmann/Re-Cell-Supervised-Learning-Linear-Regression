@@ -6,7 +6,7 @@
 With the used and refurbished device market projected to reach $52.7 billion by 2023, driven by cost savings and environmental benefits, ReCell aims to capitalize on this growth by offering dynamic pricing for used phones and tablets.
 
 ## Objective
-As a Data Scientist at ReCell, your goal is to build a linear regression model to predict the price of used/refurbished devices and identify key factors influencing their resale value. This will support ReCell’s strategy in optimizing pricing for competitive advantage in the market.
+As a Data Scientist at ReCell, my goal within this project is to build a linear regression model to predict the price of used/refurbished devices and identify key factors influencing their resale value. This will support ReCell’s strategy in optimizing pricing for competitive advantage in the market.
 
 ## Data Description
 The dataset contains various attributes of used and refurbished phones and tablets (collected in 2021) that can impact their resale value, including:
